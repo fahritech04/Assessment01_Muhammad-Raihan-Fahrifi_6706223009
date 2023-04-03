@@ -1,8 +1,5 @@
 ﻿package com.klinik;
 
-import java.io.InputStream;
-import java.util.*;
-
 public class KlinikApp {
  public static void main(String[] args) {
 
