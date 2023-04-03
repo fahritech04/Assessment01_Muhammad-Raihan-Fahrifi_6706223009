@@ -1,7 +1,11 @@
 ﻿package com.klinik;
 
+import java.io.InputStream;
+import java.util.*;
+
 public class KlinikApp {
  public static void main(String[] args) {
+
   Dokter dokterUmum = new Dokter("Dokter Umum", "A");
   Dokter dokterSpesialis = new Dokter("Dokter Spesialis", "B");
 

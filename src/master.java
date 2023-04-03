@@ -64,7 +64,7 @@ class Dokter {
   }
 }
 
-public class KlinikApp {
+public class master {
   public static void main(String[] args) {
     Dokter dokterUmum = new Dokter("Dokter Umum", "A");
     Dokter dokterSpesialis = new Dokter("Dokter Spesialis", "B");

@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Dokter {
- private Queue<Pasien> antrian = new LinkedList<>();
+ private Queue<com.klinik.Pasien> antrian = new LinkedList<>();
  private String jenisDokter;
  private String kodeDokter;
 
